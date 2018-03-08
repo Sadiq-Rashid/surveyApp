@@ -40,6 +40,6 @@ namespace surveyApp.Models
 
         [DisplayName("Survey End Date")]
         [Required(ErrorMessage = "Survey EndDate is required")]
-        public DateTime SurveyEndDate { get; set; }
+         public DateTime SurveyEndDate { get; se; }
     }
 }
