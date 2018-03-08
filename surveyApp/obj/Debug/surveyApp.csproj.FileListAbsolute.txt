@@ -1,0 +1,2 @@
+C:\surveyApp\surveyApp\obj\Debug\surveyApp.csprojResolveAssemblyReference.cache
+C:\surveyApp\surveyApp\obj\Debug\surveyApp.csproj.CoreCompileInputs.cache
